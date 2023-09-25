@@ -10,7 +10,7 @@
 3.git branch -M main
 
 
-# Git Mater Branch Command
+# Git Master Branch Command
 
 4.git push -f origin master
 
