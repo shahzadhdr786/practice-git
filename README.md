@@ -46,5 +46,22 @@
 
 14.git merge developer
 
+# Delete local branch command 
+
+15.git branch -d developer 
+
+# Resolving Conflict
+
+when an another developer directly  changes some code in github repository 
+but I do not change in my code so it will give me error for fix this error we need to use pull command(git pull origin main) for fix this specific error.
+
+# Another example of Resolving Conflict
+
+There is two developer Developer_A and Developer_B 
+---------------------------------------------------------
+Developer_B chances some code in Calculator function but Developer_A don't Know about changes has been done by Developer_B and Developer_A again changes some code in this case it will give error for fix this error we need to pull our repository (git pull origin main) after resolve this issue we can push our repository.
+
+
+
 
 
