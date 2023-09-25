@@ -11,7 +11,8 @@
 # Main branch command 
 3.git branch -M main
 
-# Push to master branch command
+Push to master branch command
+
 4.git push -f origin master
 
 5.git branch
